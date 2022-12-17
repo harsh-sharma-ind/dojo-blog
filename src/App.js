@@ -14,7 +14,7 @@ function App() {
 
         <Routes>
 
-        <Route path="/dojo-blog" element={<Home />}/>
+        <Route path="/" element={<Home />}/>
           
         <Route path="/create" element={<Create />}/>
               
